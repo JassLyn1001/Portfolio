@@ -14,3 +14,7 @@ I am a young passionate and dedicated data science enthusiast with almost three 
 
 Developed data visualization to illustrate the university (IPB University) contributin for Sustainability Development Goals (SDGs) in various activities, including learning activities, student activities, research and innovations, community services, and campus operations. 
 
+--------------
+
+[Statisitical Dowscaling using bias-correction approach for long-term precipitation extremes analysis]()
+
