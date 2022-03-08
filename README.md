@@ -12,9 +12,11 @@ I am a young passionate and dedicated data science enthusiast with almost three 
 
 [Chord Diagram with Circlize in R](https://github.com/JassLyn1001/Chord-Diagram-with-Circlize-in-R.git).
 
-Developed data visualization to illustrate the university (IPB University) contributin for Sustainability Development Goals (SDGs) in various activities, including learning activities, student activities, research and innovations, community services, and campus operations. 
+Created data visualization to illustrate the university (IPB University) contributin for Sustainability Development Goals (SDGs) in various activities, including learning activities, student activities, research and innovations, community services, and campus operations. 
 
 --------------
 
-[Statisitical Dowscaling using bias-correction approach for long-term precipitation extremes analysis]()
+[Statisitical Dowscaling using bias-correction approach for long-term precipitation extremes analysis](https://github.com/JassLyn1001/MMEDownscaling.git)
+
+Developed a statistical model to correct bias from Global Circulation Models (GCMs) data output to perform high resolutin of climate information. 
 
