@@ -20,3 +20,9 @@ Created data visualization to illustrate the university (IPB University) contrib
 
 Developed a statistical model to correct bias from Global Circulation Models (GCMs) data output to perform high resolutin of climate information. 
 
+--------------
+
+[Climate Change Analysis using Rainfall Dataset with Python](https://github.com/JassLyn1001/ColabGuidelines_Climate-Change-Analysis-Using-Rainfall-Dataset-with-Python.git)
+
+Creating a Google Colab guideline for climate data analysis using Python
+ 
