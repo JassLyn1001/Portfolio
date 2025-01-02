@@ -5,7 +5,7 @@
 
 Hi there, my name is Jassica Listyarini.
 
-I am a young passionate and dedicated data science enthusiast with almost three years of experience in data analysis for climate science. Though most of my experiences revolves around developing statistical models and data visualization in the climate field, I also strive to gain more knowledge about the wide use of data science including data collection, data cleaning, exploratory data analysis, machine learning and data storytelling so that I can expand my skillset and build new and amazing things.
+I'm a young, passionate, and dedicated climate data sciences enthusiast with 5+ years of experience in data analysis for climate science. Though most of my experiences revolve around developing statistical models for downscaling/bias correction method, I also strive to gain more knowledge about the wide use of machine learning for climate-related research and projects to expand my skill set in becoming a successful climate data scientist. Currently, I am working with big data from CMIP6 simulation using ANN model for bias-correction purposes to investigate the impact of climate change on solar energy potential in Indonesia.
 
 ## My Projects
 --------------
@@ -24,5 +24,5 @@ Developed a statistical model to correct bias from Global Circulation Models (GC
 
 [Climate Change Analysis using Rainfall Dataset with Python](https://github.com/JassLyn1001/ColabGuidelines_Climate-Change-Analysis-Using-Rainfall-Dataset-with-Python.git)
 
-Creating a Google Colab guideline for climate data analysis using Python
+Created a Google Colab guideline for climate data analysis using the Regional Climate Model over Indonesia
  
