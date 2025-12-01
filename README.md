@@ -14,6 +14,13 @@ Created data visualization to illustrate the university (IPB University) contrib
 
 --------------
 
+[SolarPVout_Projection_Under_Climate_Scenarios](https://github.com/JassLyn1001/solarPV_output_from_CMIP6_datast.git)
+
+Investigate the influence of future climate change on the PV power output based on state-of-the-art data and current climate scenarios
+
+
+--------------
+
 [Statisitical Dowscaling using bias-correction approach for long-term precipitation extremes analysis](https://github.com/JassLyn1001/MMEDownscaling.git)
 
 Developed a statistical model to correct bias from Global Circulation Models (GCMs) data output to perform high resolutin of climate information. 
