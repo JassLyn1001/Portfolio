@@ -1,8 +1,6 @@
 # Portfolio
 -----------
 
-![jassica_newp](https://user-images.githubusercontent.com/101168808/157240072-1594283c-f719-493a-8f47-b849b3fadc20.jpg)
-
 Hi there, my name is Jassica Listyarini.
 
 I'm a young, passionate, and dedicated climate data sciences enthusiast with 5+ years of experience in data analysis for climate science. Though most of my experiences revolve around developing statistical models for downscaling/bias correction method, I also strive to gain more knowledge about the wide use of machine learning for climate-related research and projects to expand my skill set in becoming a successful climate data scientist. Currently, I am working with big data from CMIP6 simulation using ANN model for bias-correction purposes to investigate the impact of climate change on solar energy potential in Indonesia.
